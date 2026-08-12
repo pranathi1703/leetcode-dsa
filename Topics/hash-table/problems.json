@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T15:04:26.100Z",
+  "updatedAt": "2026-08-12T15:27:14.541Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "5c9f4fd8b7b6d05c49027d6c27d098974ae8b2ed",
+          "lastSyncedAt": "2026-08-12T15:27:14.541Z"
+        }
+      ]
+    },
     {
       "frontendId": "73",
       "title": "Set Matrix Zeroes",
