@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T13:43:10.120Z",
+  "updatedAt": "2026-08-12T13:43:28.512Z",
   "problems": [
     {
       "frontendId": "73",
@@ -22,7 +22,7 @@
           "filename": "0073-set-matrix-zeroes.java",
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "f9f5b1cc91beb93c9ef89bb7f563246f0d96f8ec",
-          "lastSyncedAt": "2026-08-12T13:39:28.731Z"
+          "lastSyncedAt": "2026-08-12T13:43:28.512Z"
         }
       ]
     },
