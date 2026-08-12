@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T15:27:14.541Z",
+  "updatedAt": "2026-08-12T15:43:13.008Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "0015-3sum/0015-3sum.java",
           "sha": "c585a78009a19dfe07ef13c74b1632ac3d9bfc97",
           "lastSyncedAt": "2026-08-12T15:03:23.794Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "0027-remove-element/0027-remove-element.java",
+          "sha": "189f85e1cebb78be22204567b0a82f19f9051841",
+          "lastSyncedAt": "2026-08-12T15:43:13.008Z"
         }
       ]
     },
