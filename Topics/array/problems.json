@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T13:44:49.620Z",
+  "updatedAt": "2026-08-12T13:44:54.899Z",
   "problems": [
     {
       "frontendId": "15",
@@ -22,7 +22,7 @@
           "filename": "0015-3sum.java",
           "path": "0015-3sum/0015-3sum.java",
           "sha": "c585a78009a19dfe07ef13c74b1632ac3d9bfc97",
-          "lastSyncedAt": "2026-08-12T13:42:45.576Z"
+          "lastSyncedAt": "2026-08-12T13:44:54.899Z"
         }
       ]
     },
