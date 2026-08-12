@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T16:38:04.060Z",
+  "updatedAt": "2026-08-12T17:08:29.045Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,6 +283,26 @@
           "path": "0136-single-number/0136-single-number.java",
           "sha": "8598330cbaf19773ca78be09a141efa7bf532c5c",
           "lastSyncedAt": "2026-08-12T15:04:02.039Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "0152-maximum-product-subarray/",
+      "readmePath": "0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0152-maximum-product-subarray.java",
+          "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
+          "sha": "74824b3542e71d0186c67b04e4812317f06da00f",
+          "lastSyncedAt": "2026-08-12T17:08:29.045Z"
         }
       ]
     },
