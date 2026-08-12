@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 10 | 11 | 0 |
+| 23 | 12 | 11 | 0 |
 
 ## Activity
 
@@ -23,39 +23,39 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-08 | 2 |
 | 2026-08-09 | 1 |
 | 2026-08-11 | 3 |
-| 2026-08-12 | 5 |
+| 2026-08-12 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 90% |
-| Hash Table | 6 | 29% |
-| Two Pointers | 6 | 29% |
-| Math | 4 | 19% |
-| Dynamic Programming | 3 | 14% |
-| Matrix | 3 | 14% |
-| Sorting | 3 | 14% |
-| Simulation | 2 | 10% |
-| Binary Search | 1 | 5% |
-| Bit Manipulation | 1 | 5% |
+| Array | 21 | 91% |
+| Hash Table | 7 | 30% |
+| Two Pointers | 7 | 30% |
+| Sorting | 5 | 22% |
+| Math | 4 | 17% |
+| Dynamic Programming | 3 | 13% |
+| Matrix | 3 | 13% |
+| Boyer–Moore Majority Vote Algorithm | 2 | 9% |
+| Counting | 2 | 9% |
+| Divide and Conquer | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 22 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
+| [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 4 |
@@ -64,9 +64,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [quicksort](Topics/quicksort/) | 0 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
 
