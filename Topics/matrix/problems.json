@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-12T13:43:42.422Z",
+  "updatedAt": "2026-08-12T13:45:31.772Z",
   "problems": [
     {
       "frontendId": "48",
@@ -62,7 +62,7 @@
           "filename": "0073-set-matrix-zeroes.java",
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "f9f5b1cc91beb93c9ef89bb7f563246f0d96f8ec",
-          "lastSyncedAt": "2026-08-12T13:43:28.512Z"
+          "lastSyncedAt": "2026-08-12T13:45:31.772Z"
         }
       ]
     }
