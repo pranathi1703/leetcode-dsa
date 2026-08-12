@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T14:34:36.399Z",
+  "updatedAt": "2026-08-12T14:34:43.831Z",
   "problems": [
     {
       "frontendId": "15",
@@ -262,7 +262,7 @@
           "filename": "0229-majority-element-ii.java",
           "path": "0229-majority-element-ii/0229-majority-element-ii.java",
           "sha": "63d0fc085524e3d9228a204621712fdce7ba4427",
-          "lastSyncedAt": "2026-08-12T13:44:59.583Z"
+          "lastSyncedAt": "2026-08-12T14:34:43.831Z"
         }
       ]
     },
