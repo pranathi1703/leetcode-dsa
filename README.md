@@ -1,18 +1,69 @@
 # leetcode-dsa
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/pranathi1703/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/pranathi1703/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/pranathi1703/leetcode-dsa/tree/main/0217-contains-duplicate/) | Easy |
-<!---LeetCode Topics End-->
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 17 | 6 | 11 | 0 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 2 days | 3 days | 8 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-08-03 | 3 |
+| 2026-08-04 | 3 |
+| 2026-08-05 | 3 |
+| 2026-08-07 | 1 |
+| 2026-08-08 | 2 |
+| 2026-08-09 | 1 |
+| 2026-08-11 | 3 |
+| 2026-08-12 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| Array | 17 | 100% |
+| Hash Table | 5 | 29% |
+| Two Pointers | 5 | 29% |
+| Dynamic Programming | 3 | 18% |
+| Matrix | 3 | 18% |
+| Sorting | 3 | 18% |
+| Math | 2 | 12% |
+| Simulation | 2 | 12% |
+| Bit Manipulation | 1 | 6% |
+| Boyer–Moore Majority Vote Algorithm | 1 | 6% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](Topics/array/) | 17 |
+| [Backtracking](Topics/backtracking/) | 0 |
+| [Binary Search](Topics/binary-search/) | 0 |
+| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
+| [Counting](Topics/counting/) | 1 |
+| [Data Structures](Topics/data-structures/) | 0 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Graph](Topics/graph/) | 0 |
+| [Hash Table](Topics/hash-table/) | 5 |
+| [Heap](Topics/heap/) | 0 |
+| [Linked List](Topics/linked-list/) | 0 |
+| [Math](Topics/math/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
+| [Stack](Topics/stack/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Union-Find](Topics/union-find/) | 1 |
+<!---LeetHub Summary End-->
