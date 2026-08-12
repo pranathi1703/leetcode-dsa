@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T13:30:19.290Z",
+  "updatedAt": "2026-08-12T13:38:45.337Z",
   "problems": [
     {
       "frontendId": "73",
@@ -62,7 +62,7 @@
           "filename": "0217-contains-duplicate.java",
           "path": "0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "e3bfb820e6718f9ba51f4a5dec94efc9f97c2827",
-          "lastSyncedAt": "2026-08-12T13:28:31.874Z"
+          "lastSyncedAt": "2026-08-12T13:38:45.337Z"
         }
       ]
     },
