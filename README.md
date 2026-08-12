@@ -44,7 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -53,7 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 7 |
