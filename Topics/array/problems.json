@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T13:29:04.413Z",
+  "updatedAt": "2026-08-12T13:29:11.549Z",
   "problems": [
     {
       "frontendId": "15",
@@ -23,6 +23,26 @@
           "path": "0015-3sum/0015-3sum.java",
           "sha": "c585a78009a19dfe07ef13c74b1632ac3d9bfc97",
           "lastSyncedAt": "2026-08-12T13:28:42.120Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "0118-pascals-triangle/",
+      "readmePath": "0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0118-pascals-triangle.java",
+          "path": "0118-pascals-triangle/0118-pascals-triangle.java",
+          "sha": "6b2ac4749996a15835002dc8e54d37c5bf52602a",
+          "lastSyncedAt": "2026-08-12T13:29:11.549Z"
         }
       ]
     },
