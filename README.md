@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 12 | 13 | 0 |
+| 26 | 12 | 14 | 0 |
 
 ## Activity
 
@@ -23,18 +23,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-08 | 2 |
 | 2026-08-09 | 1 |
 | 2026-08-11 | 3 |
-| 2026-08-12 | 9 |
+| 2026-08-12 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 88% |
-| Hash Table | 7 | 28% |
-| Two Pointers | 7 | 28% |
-| Math | 5 | 20% |
-| Sorting | 5 | 20% |
-| Dynamic Programming | 4 | 16% |
+| Array | 22 | 85% |
+| Hash Table | 7 | 27% |
+| Two Pointers | 7 | 27% |
+| Math | 5 | 19% |
+| Sorting | 5 | 19% |
+| Dynamic Programming | 4 | 15% |
 | Matrix | 3 | 12% |
 | Boyer–Moore Majority Vote Algorithm | 2 | 8% |
 | Counting | 2 | 8% |
