@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T14:34:43.831Z",
+  "updatedAt": "2026-08-12T14:35:05.127Z",
   "problems": [
     {
       "frontendId": "73",
@@ -42,7 +42,7 @@
           "filename": "0128-longest-consecutive-sequence.java",
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
           "sha": "e4bbb712d9f59c077bacd10c45b11bea5aabed75",
-          "lastSyncedAt": "2026-08-12T13:45:16.158Z"
+          "lastSyncedAt": "2026-08-12T14:35:05.127Z"
         }
       ]
     },
