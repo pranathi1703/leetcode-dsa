@@ -67,3 +67,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Two Pointers](Topics/two-pointers/) | 5 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
