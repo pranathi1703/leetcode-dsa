@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-12T13:44:09.967Z",
+  "updatedAt": "2026-08-12T13:44:14.651Z",
   "problems": [
     {
       "frontendId": "15",
@@ -102,7 +102,7 @@
           "filename": "2149-rearrange-array-elements-by-sign.java",
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "358081bb9f15d33208d38a69c69945bd1dd2ecdc",
-          "lastSyncedAt": "2026-08-12T13:30:55.734Z"
+          "lastSyncedAt": "2026-08-12T13:44:14.651Z"
         }
       ]
     }
