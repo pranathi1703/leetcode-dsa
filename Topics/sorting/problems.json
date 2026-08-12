@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-12T16:25:32.915Z",
+  "updatedAt": "2026-08-12T16:27:18.280Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,6 +63,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "5d96906a8d93ba2dc96c9640cbc1054a9b044995",
           "lastSyncedAt": "2026-08-12T16:25:32.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0169-majority-element.java",
+          "path": "0169-majority-element/0169-majority-element.java",
+          "sha": "03ef5258498bfdc42a8b7ba244877cf6f9fb78e7",
+          "lastSyncedAt": "2026-08-12T16:27:18.280Z"
         }
       ]
     },
