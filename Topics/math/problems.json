@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T13:45:37.795Z",
+  "updatedAt": "2026-08-12T13:46:00.221Z",
   "problems": [
     {
       "frontendId": "48",
@@ -42,7 +42,7 @@
           "filename": "0189-rotate-array.java",
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "186ed62679b67c0c906f63e444fe825cdc9026d1",
-          "lastSyncedAt": "2026-08-12T13:44:04.509Z"
+          "lastSyncedAt": "2026-08-12T13:46:00.221Z"
         }
       ]
     }
