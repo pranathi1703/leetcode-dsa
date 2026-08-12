@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-12T13:44:54.899Z",
+  "updatedAt": "2026-08-12T13:45:53.375Z",
   "problems": [
     {
       "frontendId": "15",
@@ -82,7 +82,7 @@
           "filename": "0283-move-zeroes.java",
           "path": "0283-move-zeroes/0283-move-zeroes.java",
           "sha": "2ea2c9de3dc3a31cbf4adfadffcbd15cac6aa680",
-          "lastSyncedAt": "2026-08-12T13:43:55.893Z"
+          "lastSyncedAt": "2026-08-12T13:45:53.375Z"
         }
       ]
     },
