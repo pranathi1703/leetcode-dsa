@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-12T15:03:39.479Z",
+  "updatedAt": "2026-08-12T15:03:44.264Z",
   "problems": [
     {
       "frontendId": "53",
@@ -42,7 +42,7 @@
           "filename": "0118-pascals-triangle.java",
           "path": "0118-pascals-triangle/0118-pascals-triangle.java",
           "sha": "6b2ac4749996a15835002dc8e54d37c5bf52602a",
-          "lastSyncedAt": "2026-08-12T14:34:59.660Z"
+          "lastSyncedAt": "2026-08-12T15:03:44.264Z"
         }
       ]
     },
