@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T14:35:39.491Z",
+  "updatedAt": "2026-08-12T14:35:46.406Z",
   "problems": [
     {
       "frontendId": "15",
@@ -302,7 +302,7 @@
           "filename": "0560-subarray-sum-equals-k.java",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "343dc1afc8288eb59feb45b3d736a71f83393277",
-          "lastSyncedAt": "2026-08-12T13:45:47.871Z"
+          "lastSyncedAt": "2026-08-12T14:35:46.406Z"
         }
       ]
     },
