@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i">4011. Count Subarrays With Even Odd Ratio I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>a</code> and <code>b</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/">4011. Count Subarrays With Even Odd Ratio I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>a</code> and <code>b</code>.</p>
 
 <p>For a <span data-keyword="subarray-nonempty">subarray</span>, let:</p>
 
