@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T13:39:51.554Z",
+  "updatedAt": "2026-08-12T13:42:35.574Z",
   "problems": [
     {
       "frontendId": "15",
@@ -242,7 +242,7 @@
           "filename": "0217-contains-duplicate.java",
           "path": "0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "e3bfb820e6718f9ba51f4a5dec94efc9f97c2827",
-          "lastSyncedAt": "2026-08-12T13:38:45.337Z"
+          "lastSyncedAt": "2026-08-12T13:42:35.574Z"
         }
       ]
     },
