@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-12T13:28:15.607Z",
-  "problems": []
+  "updatedAt": "2026-08-12T16:12:21.560Z",
+  "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0069-sqrtx.java",
+          "path": "0069-sqrtx/0069-sqrtx.java",
+          "sha": "480c57d946be49220cbfbca50edb613eb2ea458a",
+          "lastSyncedAt": "2026-08-12T16:12:21.560Z"
+        }
+      ]
+    }
+  ]
 }
