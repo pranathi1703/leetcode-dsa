@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +138,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
