@@ -6,13 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 12 | 14 | 0 |
+| 27 | 12 | 15 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 8 |
+| 3 days | 3 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,27 +24,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-09 | 1 |
 | 2026-08-11 | 3 |
 | 2026-08-12 | 10 |
+| 2026-08-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 85% |
-| Hash Table | 7 | 27% |
-| Two Pointers | 7 | 27% |
+| Array | 23 | 85% |
+| Two Pointers | 8 | 30% |
+| Hash Table | 7 | 26% |
+| Sorting | 6 | 22% |
 | Math | 5 | 19% |
-| Sorting | 5 | 19% |
 | Dynamic Programming | 4 | 15% |
-| Matrix | 3 | 12% |
-| Boyer–Moore Majority Vote Algorithm | 2 | 8% |
-| Counting | 2 | 8% |
-| Divide and Conquer | 2 | 8% |
+| Matrix | 3 | 11% |
+| Boyer–Moore Majority Vote Algorithm | 2 | 7% |
+| Counting | 2 | 7% |
+| Divide and Conquer | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -66,9 +67,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [quicksort](Topics/quicksort/) | 0 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 6 |
+| [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
