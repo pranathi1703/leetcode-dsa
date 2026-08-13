@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-12T16:31:07.715Z",
+  "updatedAt": "2026-08-13T11:46:45.337Z",
   "problems": [
     {
       "frontendId": "560",
@@ -21,8 +21,8 @@
           "extension": ".java",
           "filename": "0560-subarray-sum-equals-k.java",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
-          "sha": "343dc1afc8288eb59feb45b3d736a71f83393277",
-          "lastSyncedAt": "2026-08-12T16:31:07.715Z"
+          "sha": "61fed6c00c13ece26b887f244bb575c55f0652ad",
+          "lastSyncedAt": "2026-08-13T11:46:45.337Z"
         }
       ]
     }
