@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T16:23:57.887Z",
+  "updatedAt": "2026-08-13T17:02:50.701Z",
   "problems": [
     {
       "frontendId": "1",
@@ -222,7 +222,7 @@
           "filename": "0056-merge-intervals.java",
           "path": "0056-merge-intervals/0056-merge-intervals.java",
           "sha": "736473cbf39d1eff0b85a8aee1bf2cc1e97a84b9",
-          "lastSyncedAt": "2026-08-13T16:23:57.887Z"
+          "lastSyncedAt": "2026-08-13T17:02:50.701Z"
         }
       ]
     },
