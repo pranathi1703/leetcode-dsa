@@ -6,51 +6,46 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 12 | 15 | 0 |
+| 19 | 10 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 9 |
+| 3 days | 3 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-03 | 3 |
-| 2026-08-04 | 3 |
-| 2026-08-05 | 3 |
-| 2026-08-07 | 1 |
-| 2026-08-08 | 2 |
-| 2026-08-09 | 1 |
-| 2026-08-11 | 3 |
-| 2026-08-12 | 10 |
+| 2026-08-11 | 2 |
+| 2026-08-12 | 16 |
 | 2026-08-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 85% |
-| Two Pointers | 8 | 30% |
-| Hash Table | 7 | 26% |
-| Sorting | 6 | 22% |
-| Math | 5 | 19% |
-| Dynamic Programming | 4 | 15% |
-| Matrix | 3 | 11% |
-| Boyer–Moore Majority Vote Algorithm | 2 | 7% |
-| Counting | 2 | 7% |
-| Divide and Conquer | 2 | 7% |
+| Array | 15 | 79% |
+| Sorting | 7 | 37% |
+| Two Pointers | 6 | 32% |
+| Hash Table | 5 | 26% |
+| Math | 4 | 21% |
+| Binary Search | 2 | 11% |
+| Boyer–Moore Majority Vote Algorithm | 2 | 11% |
+| Counting | 2 | 11% |
+| Dynamic Programming | 2 | 11% |
+| Bubble Sort | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
+| [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -60,16 +55,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
-| [quicksort](Topics/quicksort/) | 0 |
+| [Quicksort](Topics/quicksort/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
