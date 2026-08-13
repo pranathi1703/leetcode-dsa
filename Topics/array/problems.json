@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T11:47:12.850Z",
+  "updatedAt": "2026-08-13T11:47:23.333Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.java",
           "sha": "21db321d23335bf70c0f44896e516fda0c55be36",
           "lastSyncedAt": "2026-08-12T15:04:19.750Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "0066-plus-one/0066-plus-one.java",
+          "sha": "b3f082bbd842973bdf685350bba86db181407aeb",
+          "lastSyncedAt": "2026-08-13T11:47:23.333Z"
         }
       ]
     },
