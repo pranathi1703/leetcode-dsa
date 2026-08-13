@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "quicksort",
+    "name": "Quicksort"
+  },
+  "updatedAt": "2026-08-13T11:47:12.850Z",
+  "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "0075-sort-colors/0075-sort-colors.java",
+          "sha": "dce7263930d2afa7180e02e20307dbd928931966",
+          "lastSyncedAt": "2026-08-13T11:47:12.850Z"
+        }
+      ]
+    }
+  ]
+}
