@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-13T11:46:21.980Z",
+  "updatedAt": "2026-08-13T11:46:51.306Z",
   "problems": [
     {
       "frontendId": "15",
@@ -102,7 +102,7 @@
           "filename": "0169-majority-element.java",
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "03ef5258498bfdc42a8b7ba244877cf6f9fb78e7",
-          "lastSyncedAt": "2026-08-12T16:27:18.280Z"
+          "lastSyncedAt": "2026-08-13T11:46:51.306Z"
         }
       ]
     },
