@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T11:47:37.615Z",
+  "updatedAt": "2026-08-13T11:47:44.129Z",
   "problems": [
     {
       "frontendId": "1",
@@ -22,7 +22,7 @@
           "filename": "0001-two-sum.java",
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "5c9f4fd8b7b6d05c49027d6c27d098974ae8b2ed",
-          "lastSyncedAt": "2026-08-12T15:27:14.541Z"
+          "lastSyncedAt": "2026-08-13T11:47:44.129Z"
         }
       ]
     },
