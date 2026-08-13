@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-13T11:38:05.002Z",
+  "updatedAt": "2026-08-13T11:46:21.980Z",
   "problems": [
     {
       "frontendId": "15",
@@ -42,7 +42,7 @@
           "filename": "0018-4sum.java",
           "path": "0018-4sum/0018-4sum.java",
           "sha": "867b5f1eb20ff97db73d9b1256500f9176cba84e",
-          "lastSyncedAt": "2026-08-13T11:38:05.002Z"
+          "lastSyncedAt": "2026-08-13T11:46:21.980Z"
         }
       ]
     },
