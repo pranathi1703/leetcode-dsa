@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-13T11:47:48.135Z",
+  "updatedAt": "2026-08-13T11:47:53.129Z",
   "problems": [
     {
       "frontendId": "15",
@@ -22,7 +22,7 @@
           "filename": "0015-3sum.java",
           "path": "0015-3sum/0015-3sum.java",
           "sha": "c585a78009a19dfe07ef13c74b1632ac3d9bfc97",
-          "lastSyncedAt": "2026-08-12T15:03:23.794Z"
+          "lastSyncedAt": "2026-08-13T11:47:53.129Z"
         }
       ]
     },
