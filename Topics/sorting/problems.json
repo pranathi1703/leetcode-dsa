@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-13T17:02:50.701Z",
+  "updatedAt": "2026-08-15T17:21:06.660Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,6 +163,26 @@
           "path": "0229-majority-element-ii/0229-majority-element-ii.java",
           "sha": "63d0fc085524e3d9228a204621712fdce7ba4427",
           "lastSyncedAt": "2026-08-13T11:47:57.912Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "3536-maximum-product-of-two-digits/",
+      "readmePath": "3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3536-maximum-product-of-two-digits.java",
+          "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.java",
+          "sha": "db7752cf9b5a4f165cc2bcb04b8d021667029881",
+          "lastSyncedAt": "2026-08-15T17:21:06.660Z"
         }
       ]
     }
