@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/pranathi1703/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
