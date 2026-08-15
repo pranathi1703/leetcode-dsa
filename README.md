@@ -6,29 +6,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 10 | 10 | 0 |
+| 21 | 11 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 3 |
+| 1 days | 3 days | 4 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-11 | 2 |
 | 2026-08-12 | 16 |
 | 2026-08-13 | 2 |
+| 2026-08-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 80% |
-| Sorting | 8 | 40% |
-| Two Pointers | 6 | 30% |
-| Hash Table | 5 | 25% |
-| Math | 4 | 20% |
+| Array | 16 | 76% |
+| Sorting | 9 | 43% |
+| Two Pointers | 6 | 29% |
+| Hash Table | 5 | 24% |
+| Math | 5 | 24% |
 | Binary Search | 2 | 10% |
 | Boyer–Moore Majority Vote Algorithm | 2 | 10% |
 | Counting | 2 | 10% |
@@ -55,14 +56,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 0 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 1 |
