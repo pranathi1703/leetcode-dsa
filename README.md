@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/pranathi1703/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/pranathi1703/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/pranathi1703/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Quicksort
@@ -174,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
