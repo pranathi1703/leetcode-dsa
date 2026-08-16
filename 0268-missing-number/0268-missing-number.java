@@ -1,16 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int ans = -1;
-        for(int i = 0;i<=nums.length;i++){
-            int cnt=0;
-            for(int j = 0;j<nums.length;j++){
-                if(nums[j]==i){
-                    cnt++;
-                    break;
-                }
-            }
-            if(cnt==0) ans = i;
+        int n = nums.length;
+
+        int expectedSum = n * (n + 1) / 2;
+        int actualSum = 0;
+
+        for (int num : nums) {
+            actualSum += num;
         }
-        return ans;
+
+        return expectedSum - actualSum;
     }
 }
