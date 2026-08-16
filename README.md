@@ -6,13 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 11 | 10 | 0 |
+| 22 | 12 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 4 |
+| 2 days | 3 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,21 +20,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-12 | 16 |
 | 2026-08-13 | 2 |
 | 2026-08-15 | 1 |
+| 2026-08-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 76% |
-| Sorting | 9 | 43% |
-| Two Pointers | 6 | 29% |
-| Hash Table | 5 | 24% |
-| Math | 5 | 24% |
-| Binary Search | 2 | 10% |
-| Boyer–Moore Majority Vote Algorithm | 2 | 10% |
-| Counting | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
-| Quicksort | 2 | 10% |
+| Array | 16 | 73% |
+| Sorting | 9 | 41% |
+| Math | 6 | 27% |
+| Two Pointers | 6 | 27% |
+| Hash Table | 5 | 23% |
+| Binary Search | 2 | 9% |
+| Boyer–Moore Majority Vote Algorithm | 2 | 9% |
+| Counting | 2 | 9% |
+| Dynamic Programming | 2 | 9% |
+| Quicksort | 2 | 9% |
 
 ## Topics
 
@@ -51,12 +52,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
