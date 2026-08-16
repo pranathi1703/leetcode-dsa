@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration"
+  },
+  "updatedAt": "2026-08-16T11:14:23.518Z",
+  "problems": [
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3345-smallest-divisible-digit-product-i.java",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
+          "sha": "3d4c5e7d993972f491f1cf4c6e9c4fe70a717176",
+          "lastSyncedAt": "2026-08-16T11:14:23.518Z"
+        }
+      ]
+    }
+  ]
+}
