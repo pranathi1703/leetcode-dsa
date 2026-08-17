@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-17T13:25:00.973Z",
+  "updatedAt": "2026-08-17T14:08:23.796Z",
   "problems": [
     {
       "frontendId": "35",
@@ -83,6 +83,26 @@
           "path": "0493-reverse-pairs/0493-reverse-pairs.java",
           "sha": "557475d575f88abca5a331d0d4518590b2320500",
           "lastSyncedAt": "2026-08-17T13:25:00.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "0704-binary-search/0704-binary-search.java",
+          "sha": "81292450927b01e1a8c0578d04b39fe49fb1c99f",
+          "lastSyncedAt": "2026-08-17T14:08:23.796Z"
         }
       ]
     }
