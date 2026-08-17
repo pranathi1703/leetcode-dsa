@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-16T17:47:20.085Z",
+  "updatedAt": "2026-08-17T13:25:00.973Z",
   "problems": [
     {
       "frontendId": "35",
@@ -63,6 +63,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "864518dce6d607748561092cffaa97954e6912be",
           "lastSyncedAt": "2026-08-16T17:47:20.085Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "problemName": "0493-reverse-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+      "folderPath": "0493-reverse-pairs/",
+      "readmePath": "0493-reverse-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0493-reverse-pairs.java",
+          "path": "0493-reverse-pairs/0493-reverse-pairs.java",
+          "sha": "557475d575f88abca5a331d0d4518590b2320500",
+          "lastSyncedAt": "2026-08-17T13:25:00.973Z"
         }
       ]
     }
