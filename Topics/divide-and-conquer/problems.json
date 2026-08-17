@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-13T11:46:51.306Z",
+  "updatedAt": "2026-08-17T13:25:00.973Z",
   "problems": [
     {
       "frontendId": "53",
@@ -43,6 +43,26 @@
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "03ef5258498bfdc42a8b7ba244877cf6f9fb78e7",
           "lastSyncedAt": "2026-08-13T11:46:51.306Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "problemName": "0493-reverse-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+      "folderPath": "0493-reverse-pairs/",
+      "readmePath": "0493-reverse-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0493-reverse-pairs.java",
+          "path": "0493-reverse-pairs/0493-reverse-pairs.java",
+          "sha": "557475d575f88abca5a331d0d4518590b2320500",
+          "lastSyncedAt": "2026-08-17T13:25:00.973Z"
         }
       ]
     }
