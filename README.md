@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 13 | 10 | 1 |
+| 25 | 14 | 10 | 1 |
 
 ## Activity
 
@@ -21,18 +21,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-08-13 | 2 |
 | 2026-08-15 | 1 |
 | 2026-08-16 | 2 |
-| 2026-08-17 | 1 |
+| 2026-08-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 75% |
-| Sorting | 10 | 42% |
-| Math | 7 | 29% |
-| Hash Table | 6 | 25% |
-| Two Pointers | 6 | 25% |
-| Binary Search | 4 | 17% |
+| Array | 19 | 76% |
+| Sorting | 10 | 40% |
+| Math | 7 | 28% |
+| Hash Table | 6 | 24% |
+| Two Pointers | 6 | 24% |
+| Binary Search | 5 | 20% |
 | Boyer–Moore Majority Vote Algorithm | 2 | 8% |
 | Counting | 2 | 8% |
 | Divide and Conquer | 2 | 8% |
@@ -42,10 +42,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
@@ -63,7 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Minimax](Topics/minimax-algorithm/) | 1 |
+| [minimax-algorithm](Topics/minimax-algorithm/) | 0 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
