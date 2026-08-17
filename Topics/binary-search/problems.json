@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-17T14:08:23.796Z",
+  "updatedAt": "2026-08-17T14:28:48.503Z",
   "problems": [
     {
       "frontendId": "35",
@@ -102,7 +102,7 @@
           "filename": "0704-binary-search.java",
           "path": "0704-binary-search/0704-binary-search.java",
           "sha": "81292450927b01e1a8c0578d04b39fe49fb1c99f",
-          "lastSyncedAt": "2026-08-17T14:08:23.796Z"
+          "lastSyncedAt": "2026-08-17T14:28:48.503Z"
         }
       ]
     }
