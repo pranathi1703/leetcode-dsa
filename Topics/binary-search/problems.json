@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-17T14:28:48.503Z",
+  "updatedAt": "2026-08-18T13:20:41.042Z",
   "problems": [
     {
       "frontendId": "35",
@@ -21,8 +21,8 @@
           "extension": ".java",
           "filename": "0035-search-insert-position.java",
           "path": "0035-search-insert-position/0035-search-insert-position.java",
-          "sha": "5c54f9497eae37e45dd7cb007407d2344e0e148f",
-          "lastSyncedAt": "2026-08-13T11:47:28.478Z"
+          "sha": "859ac5fd1c15202afd6cb386d3176652135cd32a",
+          "lastSyncedAt": "2026-08-18T13:20:41.042Z"
         }
       ]
     },
