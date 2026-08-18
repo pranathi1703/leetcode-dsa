@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pranathi1703/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/pranathi1703/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pranathi1703/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0493-reverse-pairs/) | Hard |
