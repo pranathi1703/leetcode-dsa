@@ -63,7 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [minimax-algorithm](Topics/minimax-algorithm/) | 0 |
+| [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
