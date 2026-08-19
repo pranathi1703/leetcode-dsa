@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-18T17:50:22.448Z",
+  "updatedAt": "2026-08-19T12:30:53.658Z",
   "problems": [
     {
       "frontendId": "33",
@@ -123,6 +123,26 @@
           "path": "0493-reverse-pairs/0493-reverse-pairs.java",
           "sha": "557475d575f88abca5a331d0d4518590b2320500",
           "lastSyncedAt": "2026-08-17T13:25:00.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "problemName": "0540-single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "folderPath": "0540-single-element-in-a-sorted-array/",
+      "readmePath": "0540-single-element-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0540-single-element-in-a-sorted-array.java",
+          "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.java",
+          "sha": "b691e07da6e62d784d14b29648263c0cb26392b8",
+          "lastSyncedAt": "2026-08-19T12:30:53.658Z"
         }
       ]
     },
