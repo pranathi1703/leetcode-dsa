@@ -4,20 +4,27 @@ class Solution {
         int high = 0;
 
         for (int pile : piles) {
-            high = Math.max(high, pile);
+            if (pile > high) {
+                high = pile;
+            }
         }
 
-        while (low <= high) {
+        while (low < high) {
             int mid = low + (high - low) / 2;
 
             long hours = 0;
 
             for (int pile : piles) {
-                hours += ((long) pile + mid - 1) / mid;
+                hours += (pile + (long) mid - 1) / mid;
+
+                // No need to calculate further
+                if (hours > h) {
+                    break;
+                }
             }
 
             if (hours <= h) {
-                high = mid - 1;
+                high = mid;
             } else {
                 low = mid + 1;
             }
