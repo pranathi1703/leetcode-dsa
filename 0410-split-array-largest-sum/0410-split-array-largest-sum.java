@@ -1,41 +1,47 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
+
         int low = 0;
         int high = 0;
 
-        for (int n : nums) {
-            low = Math.max(low, n);
-            high += n;
+        for (int num : nums) {
+            low = Math.max(low, num);
+            high += num;
         }
 
-        while (low <= high) {
+        while (low < high) {
+
             int mid = low + (high - low) / 2;
 
-            int students = countStudent(nums, mid);
-
-            if (students > k) {
-                low = mid + 1;
+            if (canSplit(nums, k, mid)) {
+                high = mid;
             } else {
-                high = mid - 1;
+                low = mid + 1;
             }
         }
 
         return low;
     }
 
-    public static int countStudent(int[] nums, int maxSum) {
-        int students = 1;
-        int pages = 0;
+    private boolean canSplit(int[] nums, int k, int maxSum) {
 
-        for (int i = 0; i < nums.length; i++) {
-            if (pages + nums[i] <= maxSum) {
-                pages += nums[i];
+        int subarrays = 1;
+        int currentSum = 0;
+
+        for (int num : nums) {
+
+            if (currentSum + num > maxSum) {
+                subarrays++;
+                currentSum = num;
+
+                if (subarrays > k) {
+                    return false;
+                }
             } else {
-                students++;
-                pages = nums[i];
+                currentSum += num;
             }
         }
 
-        return students;
+        return true;
     }
 }
