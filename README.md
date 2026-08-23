@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/pranathi1703/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
@@ -189,11 +191,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/pranathi1703/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -235,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0493-reverse-pairs/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
