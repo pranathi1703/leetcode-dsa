@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/pranathi1703/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/pranathi1703/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/pranathi1703/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/pranathi1703/leetcode-dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pranathi1703/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
@@ -246,4 +248,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
