@@ -259,4 +259,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
