@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/pranathi1703/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
