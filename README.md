@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranathi1703/leetcode-dsa/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranathi1703/leetcode-dsa/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
