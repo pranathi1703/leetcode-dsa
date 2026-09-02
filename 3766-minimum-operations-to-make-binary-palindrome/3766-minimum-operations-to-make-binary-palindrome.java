@@ -1,22 +1,36 @@
 class Solution {
-    public int[] minOperations(int[] nums) {
-        int n = nums.length;
-        int[] ans = new int[n];
 
-        for (int i = 0; i < n; i++) {
+    public int[] minOperations(int[] nums) {
+
+        int[] ans = new int[nums.length];
+
+        // Store all binary palindromes from 1 to 5000
+        boolean[] palindrome = new boolean[5001];
+
+        for (int i = 1; i <= 5000; i++) {
+            palindrome[i] = isBinaryPalindrome(i);
+        }
+
+        // Find minimum distance for every number
+        for (int i = 0; i < nums.length; i++) {
 
             int num = nums[i];
+
             int distance = 0;
 
             while (true) {
 
-                if (num - distance >= 0 &&
-                    isBinaryPalindrome(num - distance)) {
+                // Check smaller number
+                if (num - distance >= 1 &&
+                    palindrome[num - distance]) {
 
                     ans[i] = distance;
                     break;
                 }
-                if (isBinaryPalindrome(num + distance)) {
+
+                // Check larger number
+                if (num + distance <= 5000 &&
+                    palindrome[num + distance]) {
 
                     ans[i] = distance;
                     break;
