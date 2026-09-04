@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/pranathi1703/leetcode-dsa/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
