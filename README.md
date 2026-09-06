@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranathi1703/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0115-distinct-subsequences](https://github.com/pranathi1703/leetcode-dsa/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/pranathi1703/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/pranathi1703/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranathi1703/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0115-distinct-subsequences](https://github.com/pranathi1703/leetcode-dsa/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/pranathi1703/leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/pranathi1703/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
