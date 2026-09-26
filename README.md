@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranathi1703/leetcode-dsa/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranathi1703/leetcode-dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranathi1703/leetcode-dsa/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/pranathi1703/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pranathi1703/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pranathi1703/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pranathi1703/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Stack
