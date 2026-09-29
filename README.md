@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranathi1703/leetcode-dsa/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranathi1703/leetcode-dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3731-find-missing-elements](https://github.com/pranathi1703/leetcode-dsa/tree/main/3731-find-missing-elements/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/pranathi1703/leetcode-dsa/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranathi1703/leetcode-dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranathi1703/leetcode-dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranathi1703/leetcode-dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
