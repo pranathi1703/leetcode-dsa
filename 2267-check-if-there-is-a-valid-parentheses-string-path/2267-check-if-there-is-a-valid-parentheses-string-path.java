@@ -1,52 +1,87 @@
 class Solution {
-    static Boolean[][][] memo;
+
+    int m, n;
+    char[][] grid;
+    Boolean[][][] memo;
 
     public boolean hasValidPath(char[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
 
-        if (grid[0][0] == ')' || grid[rows - 1][cols - 1] == '(') {
+        this.grid = grid;
+        m = grid.length;
+        n = grid[0].length;
+
+        // Every path has m + n - 1 characters.
+        // A valid parentheses string must have even length.
+        if ((m + n - 1) % 2 != 0) {
             return false;
         }
 
-        if ((rows + cols - 1) % 2 != 0) {
+        // First character must be '('
+        if (grid[0][0] == ')') {
             return false;
         }
 
-        memo = new Boolean[101][101][201];
+        memo = new Boolean[m][n][m + n];
 
-        return search(grid, 0, 0, 0);
+        return dfs(0, 0, 1);
     }
 
-    private boolean search(char[][] grid, int row, int col, int balance) {
-        if (grid[row][col] == '(') {
-            balance++;
-        } else {
-            balance--;
-        }
+    private boolean dfs(int row, int col, int balance) {
 
+        // Invalid balance
         if (balance < 0) {
             return false;
         }
 
-        if (row == grid.length - 1 && col == grid[0].length - 1) {
+        // Not enough remaining cells to close all '('
+        int remaining = (m - 1 - row) + (n - 1 - col);
+
+        if (balance > remaining) {
+            return false;
+        }
+
+        // Destination
+        if (row == m - 1 && col == n - 1) {
             return balance == 0;
         }
 
+        // Already calculated
         if (memo[row][col][balance] != null) {
             return memo[row][col][balance];
         }
 
-        boolean canFormValidPath = false;
+        boolean possible = false;
 
-        if (row + 1 < grid.length) {
-            canFormValidPath = search(grid, row + 1, col, balance);
+        // Move down
+        if (row + 1 < m) {
+
+            int newBalance = balance;
+
+            if (grid[row + 1][col] == '(') {
+                newBalance++;
+            } else {
+                newBalance--;
+            }
+
+            possible = dfs(row + 1, col, newBalance);
         }
 
-        if (!canFormValidPath && col + 1 < grid[0].length) {
-            canFormValidPath = search(grid, row, col + 1, balance);
+        // Move right
+        if (!possible && col + 1 < n) {
+
+            int newBalance = balance;
+
+            if (grid[row][col + 1] == '(') {
+                newBalance++;
+            } else {
+                newBalance--;
+            }
+
+            possible = dfs(row, col + 1, newBalance);
         }
 
-        return memo[row][col][balance] = canFormValidPath;
+        memo[row][col][balance] = possible;
+
+        return possible;
     }
 }
