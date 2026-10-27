@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/pranathi1703/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/pranathi1703/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/pranathi1703/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/pranathi1703/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/pranathi1703/leetcode-dsa/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Binary Indexed Tree
@@ -389,4 +391,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/pranathi1703/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
