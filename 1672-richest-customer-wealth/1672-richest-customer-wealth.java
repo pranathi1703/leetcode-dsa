@@ -1,17 +1,17 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int maxWealth = 0; // Wealth cannot be negative per problem constraints
+        int max = 0; 
         
-        for (int[] customer : accounts) {
-            int currentWealth = 0;
-            for (int bank : customer) {
-                currentWealth += bank;
+        for (int[] i : accounts) {
+            int sum = 0;
+            for (int j : i) {
+                sum += j;
             }
-            if (currentWealth > maxWealth) {
-                maxWealth = currentWealth;
+            if (sum > max) {
+                max = sum;
             }
         }
         
-        return maxWealth;
+        return max;
     }
 }
