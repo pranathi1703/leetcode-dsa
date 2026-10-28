@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0372-super-pow](https://github.com/pranathi1703/leetcode-dsa/tree/main/0372-super-pow/) | Medium |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranathi1703/leetcode-dsa/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/pranathi1703/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/pranathi1703/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranathi1703/leetcode-dsa/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/pranathi1703/leetcode-dsa/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
