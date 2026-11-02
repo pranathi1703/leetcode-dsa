@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/pranathi1703/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/pranathi1703/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/pranathi1703/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/pranathi1703/leetcode-dsa/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -348,12 +349,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
