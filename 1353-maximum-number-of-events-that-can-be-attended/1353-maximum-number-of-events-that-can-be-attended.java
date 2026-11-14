@@ -1,7 +1,7 @@
 class Solution {
     public int maxEvents(int[][] events) {
         int n=events.length;
-        Arrays.sort(events,(a,b)->a[0]-b[0]);
+        Arrays.sort(events, (a,b) -> Integer.compare(a[0], b[0]));
         PriorityQueue<Integer> pq=new PriorityQueue<>();
 
         int day=1;
