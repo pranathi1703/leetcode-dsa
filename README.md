@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranathi1703/leetcode-dsa/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranathi1703/leetcode-dsa/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranathi1703/leetcode-dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pranathi1703/leetcode-dsa/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranathi1703/leetcode-dsa/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
