@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/pranathi1703/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/pranathi1703/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0372-super-pow](https://github.com/pranathi1703/leetcode-dsa/tree/main/0372-super-pow/) | Medium |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranathi1703/leetcode-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pranathi1703/leetcode-dsa/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/pranathi1703/leetcode-dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -421,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/pranathi1703/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
