@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/pranathi1703/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/pranathi1703/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pranathi1703/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
@@ -432,9 +433,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/pranathi1703/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pranathi1703/leetcode-dsa/tree/main/0070-climbing-stairs/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
