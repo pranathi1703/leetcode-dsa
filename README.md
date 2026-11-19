@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/pranathi1703/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/pranathi1703/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/pranathi1703/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/pranathi1703/leetcode-dsa/tree/main/0372-super-pow/) | Medium |
 | [0412-fizz-buzz](https://github.com/pranathi1703/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/pranathi1703/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/pranathi1703/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/pranathi1703/leetcode-dsa/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/pranathi1703/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranathi1703/leetcode-dsa/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/pranathi1703/leetcode-dsa/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Binary Indexed Tree
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/pranathi1703/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/pranathi1703/leetcode-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/pranathi1703/leetcode-dsa/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/pranathi1703/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 ## Euler's Totient Function
 | Problem Name | Difficulty |
 | ------- | ------- |
