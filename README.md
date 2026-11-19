@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pranathi1703/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/pranathi1703/leetcode-dsa/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/pranathi1703/leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/pranathi1703/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/pranathi1703/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/pranathi1703/leetcode-dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/0796-rotate-string/) | Easy |
