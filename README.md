@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/pranathi1703/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pranathi1703/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/pranathi1703/leetcode-dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/pranathi1703/leetcode-dsa/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/pranathi1703/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pranathi1703/leetcode-dsa/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/pranathi1703/leetcode-dsa/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/0090-subsets-ii/) | Medium |
 ## Simulation
