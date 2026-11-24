@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/pranathi1703/leetcode-dsa/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/pranathi1703/leetcode-dsa/tree/main/0372-super-pow/) | Medium |
 | [0412-fizz-buzz](https://github.com/pranathi1703/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+| [0670-maximum-swap](https://github.com/pranathi1703/leetcode-dsa/tree/main/0670-maximum-swap/) | Medium |
 | [0877-stone-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranathi1703/leetcode-dsa/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/pranathi1703/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0670-maximum-swap](https://github.com/pranathi1703/leetcode-dsa/tree/main/0670-maximum-swap/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/pranathi1703/leetcode-dsa/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranathi1703/leetcode-dsa/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
