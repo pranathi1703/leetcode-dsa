@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranathi1703/leetcode-dsa/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pranathi1703/leetcode-dsa/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
