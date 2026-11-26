@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/pranathi1703/leetcode-dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2235-add-two-integers](https://github.com/pranathi1703/leetcode-dsa/tree/main/2235-add-two-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranathi1703/leetcode-dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pranathi1703/leetcode-dsa/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/pranathi1703/leetcode-dsa/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/pranathi1703/leetcode-dsa/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/pranathi1703/leetcode-dsa/tree/main/0412-fizz-buzz/) | Easy |
+| [3360-stone-removal-game](https://github.com/pranathi1703/leetcode-dsa/tree/main/3360-stone-removal-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
